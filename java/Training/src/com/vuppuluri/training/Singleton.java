@@ -1,0 +1,29 @@
+/**
+ * 
+ */
+package com.vuppuluri.training;
+import java.io.Serializable;
+/**
+ * @author Binathi
+ *
+ */
+
+class Singleton implements Serializable{
+	private static Singleton instance = null;
+	public String s;
+	private Singleton() {
+		s = "Hello! I am a string part of SingletonVuppuluri class";
+	}
+
+	public static Singleton getInstance() {
+		if (instance == null) {
+			instance = new Singleton();
+		}
+		return instance;
+	}
+}
+
+/*public enum Singleton{
+	INSTANCE;
+}
+*/
