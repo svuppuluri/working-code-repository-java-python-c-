@@ -1,0 +1,16 @@
+Brand,Color,Age,Speed,SunPass
+Tesla,red,5,120,Yes
+Acura,black,5,100,Yes
+Ford,grey,7,110,No
+BMW,white,10,105,No
+Mercedes,black,1,135,No
+Volvo,black,12,95,No
+Volkswagen,red,2,89,Yes
+Ford,black,9,97,Yes
+Tesla,grey,14,100,No
+Volkswagen,white,11,107,No
+Acura,grey,10,128,Yes
+Mercedes,white,7,85,Yes
+Mercedes,blue,5,122,No
+Volvo,black,4,120,Yes
+BMW,red,1,97,Yes
